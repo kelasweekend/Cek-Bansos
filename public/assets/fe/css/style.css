@@ -1,0 +1,402 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+a {
+    text-decoration: none;
+}
+
+.rounded-15 {
+    border-radius: 15px;
+}
+
+.navbar {
+    margin-top: 15px;
+}
+
+.navbar .nav-item {
+    padding-right: 70px;
+}
+
+.navbar .nav-item .nav-link {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #000;
+}
+
+
+header {
+    margin-top: 40px;
+}
+
+header h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    margin-top: 45px;
+    margin-bottom: 30px;
+}
+
+header p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    text-align: justify;
+    font-size: 17px;
+}
+
+#tujuan {
+    margin-top: 40px;
+}
+
+#tujuan h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    margin-top: 45px;
+    margin-bottom: 30px;
+}
+
+#tujuan h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 45px;
+    margin-bottom: 30px;
+}
+
+#tujuan p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    text-align: justify;
+    font-size: 20px;
+}
+
+#tujuan1 h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    margin-top: 45px;
+    margin-bottom: 30px;
+}
+
+#tujuan1 h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 45px;
+    margin-bottom: 30px;
+}
+
+#tujuan1 p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    text-align: justify;
+    font-size: 20px;
+}
+
+#jenisbansos {
+    margin-bottom: 50px;
+}
+
+#jenisbansos h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#jenisbansos h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 27px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    text-align: justify;
+}
+
+#jenisbansos h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+#jenisbansos p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    text-align: justify;
+}
+
+.bg-gradient-costum {
+    background: linear-gradient(278.19deg, #48B279 4.25%, #4899B2 93.64%);
+}
+
+.naik {
+    margin-top: -212px;
+}
+
+/* bagian vidio */
+#webvideo {
+    background: linear-gradient(278.19deg, #48B279 4.25%, #4899B2 93.64%);
+    height: 550px;
+    margin-bottom: 50px;
+}
+
+/* akhir vidio */
+
+
+/* login */
+
+.kanan {
+    height: 43rem;
+    background: linear-gradient(278.19deg, #48B279 4.25%, #4899B2 93.64%);
+    background-image: url('/assets/fe/img/balon.png');
+    background-repeat: no-repeat;
+}
+
+.kanan h3 {
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    text-rendering: optimizeLegibility;
+}
+
+.kanan p {
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    text-rendering: optimizeLegibility;
+}
+
+.kanan .text-center {
+    padding-top: 50%;
+    color: #ffff;
+}
+
+.kanan .text-center a {
+    background: linear-gradient(278.19deg, #48B279 4.25%, #4899B2 93.64%);
+}
+
+.kanan .text-center .btn {
+    width: 250px;
+    margin-top: 5%;
+}
+
+.kiri form {
+    margin-top: 40%;
+}
+
+.footer ul {
+    margin-top: 40px;
+}
+
+/* Input Email */
+
+.EmaPass {
+    display: flex;
+    min-height: 100%;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(278.19deg, #48B279 4.25%, #4899B2 93.64%);
+    background-repeat: no-repeat;
+}
+
+.cardStyle {
+    width: 500px;
+    border-color: white;
+    background: #fff;
+    padding: 36px 0;
+    border-radius: 4px;
+    margin: 30px 0;
+    box-shadow: 0px 0 2px 0 rgba(0, 0, 0, 0.25);
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* lupa password */
+
+.LuPass {
+    display: flex;
+    min-height: 100%;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(278.19deg, #48B279 4.25%, #4899B2 93.64%);
+    background-repeat: no-repeat;
+}
+
+.cardStyle {
+    width: 500px;
+    border-color: white;
+    background: #fff;
+    padding: 36px 0;
+    border-radius: 4px;
+    margin: 30px 0;
+    box-shadow: 0px 0 2px 0 rgba(0, 0, 0, 0.25);
+    font-family: 'Poppins', sans-serif;
+}
+
+#signupLogo {
+    max-height: 100px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.formTitle {
+    font-weight: 600;
+    margin-top: 20px;
+    color: #2F2D3B;
+    text-align: center;
+}
+
+.pswd_info {
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.pswd_info h3 {
+    font-weight: 600;
+    color: #2F2D3B;
+    text-align: center;
+    display: block;
+    font-size: 16px;
+    letter-spacing: 0;
+    padding: 15px 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.pswd_info ul {
+    list-style: outside none none;
+    padding-left: 80px;
+}
+
+
+.inputLabel {
+    font-size: 12px;
+    color: #555;
+    margin-bottom: 6px;
+    margin-top: 24px;
+}
+
+.inputDiv {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+input {
+    height: 40px;
+    font-size: 16px;
+    border-radius: 4px;
+    border: none;
+    border: solid 1px #ccc;
+    padding: 0 11px;
+}
+
+input:disabled {
+    cursor: not-allowed;
+    border: solid 1px #eee;
+}
+
+.buttonWrapper {
+    margin-top: 40px;
+}
+
+.submitButton {
+    width: 70%;
+    height: 40px;
+    margin: auto;
+    display: block;
+    color: #fff;
+    background-color: #065492;
+    border-color: #065492;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.12);
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.035);
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.submitButton:disabled,
+button[disabled] {
+    border: 1px solid #cccccc;
+    background-color: #cccccc;
+    color: #666666;
+}
+
+#loader {
+    position: absolute;
+    z-index: 1;
+    margin: -2px 0 0 10px;
+    border: 4px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 4px solid #666666;
+    width: 14px;
+    height: 14px;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.daftar {
+    margin-top: 30px;
+}
+
+.daftar h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.daftar h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+.daftar p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+.bansos {
+    margin-top: 30px;
+}
+
+.bansos h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.bansos p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+.form-check-inline input {
+    width: 30px;
+    height: 30px;
+    margin-top: 5px;
+}
+
+.form-check-inline label {
+    margin-top: 8px;
+    margin-left: 10px;
+    font-weight: 600;
+    font-size: 15px;
+}
